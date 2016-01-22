@@ -1,0 +1,21 @@
+{
+  "name": "spritesmith-stylus-retina-template",
+  "version": "1.0.0",
+  "description": "Stylus sprite template with retina support for spritesmith",
+  "main": "stylus_retina.template.handlebars",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/CSSSR/spritesmith-stylus-retina-template.git"
+  },
+  "keywords": [
+    "csssr",
+    "spritesmith",
+    "stylus"
+  ],
+  "author": "CSSSR",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CSSSR/spritesmith-stylus-retina-template/issues"
+  },
+  "homepage": "https://github.com/CSSSR/spritesmith-stylus-retina-template"
+}
